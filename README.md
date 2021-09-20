@@ -14,3 +14,6 @@ kapı dataset2 : https://drive.google.com/file/d/1gHCca1O5hBx28g9gjDfDYVH1jPTSgz
 
 kapı dataset3: https://drive.google.com/file/d/1IAtY_G0VAki4rwzpQ0IXc3pxSBGfNPkO/view?usp=sharing
 
+## Jetson Nano Konfigürasyonu : 
+Yüksek FPS alabilmek için aşağıda bulunan OpenCV CUDA ve CUDNN konfigürasyonunu yapın.
+https://qengineering.eu/install-opencv-4.5-on-jetson-nano.html
